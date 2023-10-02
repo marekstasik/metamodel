@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<contributor name="org.eclipse.pde"/>
+<contributor name="org.eclipse.mylyn.help.ui"/>
+<contributor name="org.eclipse.net4j.doc"/>
+<contributor name="org.eclipse.jdt"/>
+<contributor name="org.eclipse.mat.ui.help"/>
+<contributor name="org.eclipse.qvtd.examples"/>
+<contributor name="org.eclipse.photran.ui"/>
+<contributor name="org.eclipse.pde.ui"/>
+<contributor name="org.eclipse.php.help"/>
+<contributor name="org.eclipse.passage.ldc"/>
+<contributor name="org.eclipse.datatools.intro"/>
+<contributor name="org.eclipse.m2e.core.ui"/>
+<contributor name="org.eclipse.ui.intro"/>
+<contributor name="fr.obeo.dsl.designer.ce"/>
+<contributor name="org.eclipse.cvs"/>
+<contributor name="org.eclipse.cdt.doc.user"/>
+<contributor name="org.eclipse.rap.tools.intro"/>
+<contributor name="org.eclipse.emf.cdo.doc"/>
+<contributor name="org.eclipse.platform"/>
+<contributor name="org.eclipse.acceleo.ide.ui"/>
+<contributor name="org.eclipse.swtbot.eclipse.ui"/>
+<contributor name="org.eclipse.ecf.doc"/>
+<contributor name="org.eclipse.egit.doc"/>
+<contributor name="org.eclipse.ptp.doc.user"/>
+<contributor name="org.eclipse.mat.ui"/>
+<contributor name="org.eclipse.ui.intro.universal"/>
+</root>
